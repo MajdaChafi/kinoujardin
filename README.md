@@ -1,4 +1,4 @@
-# Kinoujardin
+# KinouJardin
 
 **KinouJardin** est une plateforme en ligne dédiée à l'inscription aux cours éducatifs pour enfants. Le site permet aux parents et aux éducateurs de s'inscrire facilement à des programmes d'apprentissage adaptés à l'âge et aux besoins des enfants.
 
