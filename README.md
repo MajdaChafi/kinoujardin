@@ -1,23 +1,23 @@
 # KinouJardin
 
-**KinouJardin** est une plateforme en ligne dédiée à l'inscription aux cours éducatifs pour enfants. Le site permet aux parents et aux éducateurs de s'inscrire facilement à des programmes d'apprentissage adaptés à l'âge et aux besoins des enfants.
+**KinouJardin** is an online platform dedicated to registering children for educational courses. The website allows parents and educators to easily enroll children in learning programs tailored to their ages and needs.
 
-## Objectifs
+## Objectives
 
-- Offrir une plateforme d'inscription pour des cours éducatifs destinés aux enfants.
-- Proposer des programmes pédagogiques diversifiés et adaptés aux différentes tranches d'âge.
-- Simplifier le processus d'inscription et de gestion des cours pour les familles et les éducateurs.
+- Provide a registration platform for educational courses designed for children.
+- Offer a variety of educational programs adapted to different age groups.
+- Simplify the course registration and management process for families and educators.
 
-## Fonctionnalités
+## Features
 
-- **Inscription aux cours** : Inscrivez vos enfants à des cours éducatifs en ligne.
-- **Catalogue des cours** : Accédez à une liste de programmes éducatifs, allant des cours préscolaires aux ateliers créatifs.
-- **Gestion des inscriptions** : Suivez et gérez vos inscriptions aux cours et événements.
+- **Course Registration**: Enroll children in educational courses online.
+- **Course Catalogue**: Browse a range of educational programs, from preschool courses to creative workshops.
+- **Registration Management**: Track and manage registrations for courses and events.
 
-## Comment s'inscrire
+## How to Register
 
-1. Visitez le site web de **KinouJardin**.
-2. Créez un compte ou connectez-vous si vous en avez déjà un.
-3. Parcourez le catalogue des cours disponibles.
-4. Sélectionnez le cours souhaité et inscrivez-vous en ligne.
-5. Recevez une confirmation d'inscription par email.
+1. Visit the **KinouJardin** website.
+2. Create an account or log in if you already have one.
+3. Browse the available courses.
+4. Select your preferred course and register online.
+5. Receive a registration confirmation by email.
